@@ -7,5 +7,14 @@ namespace userCRUDUsingAPI.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+        public UserController()
+        {
+
+        }
+
+        //public IActionResult Index()
+        //{
+            
+        //}
     }
 }
