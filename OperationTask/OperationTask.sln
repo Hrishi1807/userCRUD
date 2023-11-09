@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userCRUDUsingAPI", "userCRUDUsingAPI\userCRUDUsingAPI.csproj", "{19ED5E17-D936-4D34-BB65-5808B4C9CDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19ED5E17-D936-4D34-BB65-5808B4C9CDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19ED5E17-D936-4D34-BB65-5808B4C9CDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19ED5E17-D936-4D34-BB65-5808B4C9CDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19ED5E17-D936-4D34-BB65-5808B4C9CDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E883628-CE1B-4922-9AB0-E61507C59EBA}
+	EndGlobalSection
+EndGlobal
